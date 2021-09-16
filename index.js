@@ -1,4 +1,3 @@
-const keepAlive = require("./server")
 const Discord = require("discord.js")
 const SQLite = require("better-sqlite3")
 const sql = new SQLite('./mainDB.sqlite')
@@ -15,7 +14,6 @@ const talkedRecently = new Map();
 const config = require("./config.json")
 
 // Events
-keepAlive()
 client.login(config.token) 
 
 client.on("ready", () => {
