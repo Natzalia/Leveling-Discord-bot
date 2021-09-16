@@ -1,5 +1,5 @@
 # Hello There 👋
-This bot was coded using Discord.js v12 and nodejs 14
+This bot was coded using Discord.js v12 and nodejs 
 
 ![](https://i.imgur.com/EOg65is.png)
 
