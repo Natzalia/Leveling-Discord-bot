@@ -4,7 +4,7 @@ This bot was coded using Discord.js v12 and nodejs 14
 ![](https://i.imgur.com/EOg65is.png)
 
 ## Tutorial
-- Tutorial to setup and use the bot can be found in [TUTORIAL.md]
+- Tutorial to setup and use the bot can be found in [TUTORIAL.md](https://github.com/Natzalia/Leveling-Discord-bot/blob/main/TUTORIAL.md)
 
 ## Info & Credits
 - This bot was made by Natalia
