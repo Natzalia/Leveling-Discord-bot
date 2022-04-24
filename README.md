@@ -29,8 +29,7 @@ This bot was coded using Discord.js v12 and nodejs
 - if you want to hire me, you may dm me on Discord
 
 ## Steps To Support me
-- Invite [Vera Music](https://discord.com/oauth2/authorize?client_id=860165433998311455&permissions=2184310080&scope=bot%20applications.commands)
-- You can join our [support server](https://dsc.gg/glownation)
+- You can join our [support server](discord.gg/opheliaa)
 - You can boost our server, or send the owner a small nitro gift to donate a giveaway
 - Star This repostory
 - Fork This repostory
