@@ -29,7 +29,7 @@ This bot was coded using Discord.js v12 and nodejs
 - if you want to hire me, you may dm me on Discord
 
 ## Steps To Support me
-- You can join our [support server](discord.gg/opheliaa)
+- You can join our [support server](https://discord.gg/opheliaa)
 - You can boost our server, or send the owner a small nitro gift to donate a giveaway
 - Star This repostory
 - Fork This repostory
